@@ -1,11 +1,16 @@
 _repo: Dick-s-retriever_72111
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stooke, E. M.
     gutenberg_agent_id: '56541'
     url: http://www.gutenberg.org/2009/agents/56541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72111#Dick-s-retriever
 gutenberg_issued: '2023-11-13'
 identifiers:
   gutenberg: '72111'
